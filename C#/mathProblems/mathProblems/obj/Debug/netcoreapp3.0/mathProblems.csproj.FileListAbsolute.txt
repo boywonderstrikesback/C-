@@ -1,0 +1,11 @@
+/Users/mikeross/projects/mathProblems/mathProblems/bin/Debug/netcoreapp3.0/mathProblems
+/Users/mikeross/projects/mathProblems/mathProblems/bin/Debug/netcoreapp3.0/mathProblems.deps.json
+/Users/mikeross/projects/mathProblems/mathProblems/bin/Debug/netcoreapp3.0/mathProblems.runtimeconfig.json
+/Users/mikeross/projects/mathProblems/mathProblems/bin/Debug/netcoreapp3.0/mathProblems.runtimeconfig.dev.json
+/Users/mikeross/projects/mathProblems/mathProblems/bin/Debug/netcoreapp3.0/mathProblems.dll
+/Users/mikeross/projects/mathProblems/mathProblems/bin/Debug/netcoreapp3.0/mathProblems.pdb
+/Users/mikeross/projects/mathProblems/mathProblems/obj/Debug/netcoreapp3.0/mathProblems.csprojAssemblyReference.cache
+/Users/mikeross/projects/mathProblems/mathProblems/obj/Debug/netcoreapp3.0/mathProblems.AssemblyInfoInputs.cache
+/Users/mikeross/projects/mathProblems/mathProblems/obj/Debug/netcoreapp3.0/mathProblems.AssemblyInfo.cs
+/Users/mikeross/projects/mathProblems/mathProblems/obj/Debug/netcoreapp3.0/mathProblems.dll
+/Users/mikeross/projects/mathProblems/mathProblems/obj/Debug/netcoreapp3.0/mathProblems.pdb
